@@ -1,0 +1,57 @@
+.timer {
+    text-align: center;
+    background-color: darkviolet;
+    border: 1px solid black;
+}
+
+
+h1 {
+    font-size: 50px;
+    border: 1px solid black;
+    background-color: darksalmon;
+}
+
+
+body {
+    background-color: rgba(179, 180, 182, 0.945);
+    font-family: Georgia, serif;
+}
+
+
+.question {
+    text-align: center;
+    border: 1px solid black;
+    background-color: darkgrey;
+    height: 150px;
+}
+
+.buttons {
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    width: 200px;
+    color: rgb(37, 37, 37);
+    background-color: cornflowerblue;
+    border: 1px solid black;
+    margin-top: 30px;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+button:hover {
+    background-color: darkcyan;
+}
+
+
+
+textarea {
+    height: 30px;
+    margin-top: 10px;
+    resize: none;
+    margin-left: auto;
+    margin-right: auto;
+}
