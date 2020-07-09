@@ -2,7 +2,7 @@
 quiz hw
 This breif quiz was created to test the basic knowledge of HTML,CSS, and JS.
 
-GIVEN I am taking a code quiz 
+I am taking a code quiz 
 WHEN start button is clicked THEN a timer starts and as well as the quiz
 WHEN one questions is answered then the the quiz oves to the next question
 WHEN I answer a question incorrectly THEN time is subtracted from the clock WHEN all questions are answered or the timer reaches 0 
